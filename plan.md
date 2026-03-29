@@ -7,3 +7,7 @@ Ransomeware: lock victim screen, pop up a message for ransom afterward
 Only fretch data when the victim's PC use lots of RAM
 
 Spyware keylogger: screen, sound, screenshot
+
+
+Milestone 2:
+Reminder to build a exfil server for handling the exploit.
