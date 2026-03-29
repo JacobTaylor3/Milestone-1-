@@ -6,6 +6,7 @@ Once implant is downloaded onto user's machine, able to manipulate screenshot/ca
 Ransomeware: 
 - Lock victim screen, pop up a message for ransom afterward
 - Only fretch data when the victim's PC use lots of RAM
+  
 Spyware keylogger: screen, sound, screenshot
 
 ## Milestone 2:
